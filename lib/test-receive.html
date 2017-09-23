@@ -30,7 +30,7 @@
         const sreceiver = new SonicReceiver({ freqMin, freqMax });
         sreceiver.on('message', x => {
           console.log(`Received ${x} at ${freqMin}-${freqMax}Hz.`);
-          textMessage.val(x);
+          textMessage.test(x);
         });
         sreceiver.start();
       });
