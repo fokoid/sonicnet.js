@@ -1,8 +1,8 @@
 {
   "name": "sonicnet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Broadcast communication over soundwaves",
-  "main": "",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/thornecc/sonicnet.js.git"
   },
-  "author": "",
+  "author": "Alex Thorne <alex@thorne.cc>, Boris Smus",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/thornecc/sonicnet.js/issues"
