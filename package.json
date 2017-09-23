@@ -1,0 +1,25 @@
+{
+  "name": "sonicnet",
+  "version": "0.1.0",
+  "description": "Broadcast communication over soundwaves",
+  "main": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornecc/sonicnet.js.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thornecc/sonicnet.js/issues"
+  },
+  "homepage": "https://github.com/thornecc/sonicnet.js#readme",
+  "dependencies": {
+    "browserify": "^14.4.0"
+  }
+}
