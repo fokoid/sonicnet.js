@@ -1,6 +1,6 @@
 {
   "name": "sonicnet",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Broadcast communication over soundwaves",
   "main": "index.js",
   "directories": {
